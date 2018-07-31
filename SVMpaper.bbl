@@ -1,0 +1,1244 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{43}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\textsf{#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{Wong:2016}
+\begin{botherref}
+\oauthor{\bsnm{Wong}, \binits{Q.}}:
+Salesforce Pushed Silicon Valley Into the Cloud.
+(1998 (accessed July 11, 2016)).
+\url{ http://www.newsfactor.com}
+\end{botherref}
+\endbibitem
+
+%%% 2
+\bibitem{gonzales2015cloud}
+\begin{botherref}
+\oauthor{\bsnm{Gonzales}, \binits{D.}},
+\oauthor{\bsnm{Kaplan}, \binits{J.}},
+\oauthor{\bsnm{Saltzman}, \binits{E.}},
+\oauthor{\bsnm{Winkelman}, \binits{Z.}},
+\oauthor{\bsnm{Woods}, \binits{D.}}:
+Cloud-trust-a security assessment model for infrastructure as a service (iaas)
+  clouds
+(2015)
+\end{botherref}
+\endbibitem
+
+%%% 3
+\bibitem{modi2013survey}
+\begin{barticle}
+\bauthor{\bsnm{Modi}, \binits{C.}},
+\bauthor{\bsnm{Patel}, \binits{D.}},
+\bauthor{\bsnm{Borisaniya}, \binits{B.}},
+\bauthor{\bsnm{Patel}, \binits{H.}},
+\bauthor{\bsnm{Patel}, \binits{A.}},
+\bauthor{\bsnm{Rajarajan}, \binits{M.}}:
+\batitle{A survey of intrusion detection techniques in cloud}.
+\bjtitle{Journal of Network and Computer Applications}
+\bvolume{36}(\bissue{1}),
+\bfpage{42}--\blpage{57}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem{tsai2012threat}
+\begin{barticle}
+\bauthor{\bsnm{Tsai}, \binits{H.-Y.}},
+\bauthor{\bsnm{Siebenhaar}, \binits{M.}},
+\bauthor{\bsnm{Miede}, \binits{A.}},
+\bauthor{\bsnm{Huang}, \binits{Y.}},
+\bauthor{\bsnm{Steinmetz}, \binits{R.}}:
+\batitle{Threat as a service?: Virtualization's impact on cloud security}.
+\bjtitle{IT Professional Magazine}
+\bvolume{14}(\bissue{1}),
+\bfpage{32}
+(\byear{2012})
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem{shea2012understanding}
+\begin{bchapter}
+\bauthor{\bsnm{Shea}, \binits{R.}},
+\bauthor{\bsnm{Liu}, \binits{J.}}:
+\bctitle{Understanding the impact of denial of service attacks on virtual
+  machines}.
+In: \bbtitle{Proceedings of the 2012 IEEE 20th International Workshop on
+  Quality of Service},
+p. \bfpage{27}
+(\byear{2012}).
+\bcomment{IEEE Press}
+\end{bchapter}
+\endbibitem
+
+%%% 6
+\bibitem{gupta2013vm}
+\begin{bchapter}
+\bauthor{\bsnm{Gupta}, \binits{S.}},
+\bauthor{\bsnm{Kumar}, \binits{P.}}:
+\bctitle{Vm profile based optimized network attack pattern detection scheme for
+  ddos attacks in cloud}.
+In: \bbtitle{International Symposium on Security in Computing and
+  Communication},
+pp. \bfpage{255}--\blpage{261}
+(\byear{2013}).
+\bcomment{Springer}
+\end{bchapter}
+\endbibitem
+
+%%% 7
+\bibitem{masood2013edos}
+\begin{bchapter}
+\bauthor{\bsnm{Masood}, \binits{M.}},
+\bauthor{\bsnm{Anwar}, \binits{Z.}},
+\bauthor{\bsnm{Raza}, \binits{S.A.}},
+\bauthor{\bsnm{Hur}, \binits{M.A.}}:
+\bctitle{Edos armor: a cost effective economic denial of sustainability attack
+  mitigation framework for e-commerce applications in cloud environments}.
+In: \bbtitle{Multi Topic Conference (INMIC), 2013 16th International},
+pp. \bfpage{37}--\blpage{42}
+(\byear{2013}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 8
+\bibitem{koduru2013detection}
+\begin{bchapter}
+\bauthor{\bsnm{Koduru}, \binits{A.}},
+\bauthor{\bsnm{Neelakantam}, \binits{T.}}, \betal:
+\bctitle{Detection of economic denial of sustainability using time spent on a
+  web page in cloud}.
+In: \bbtitle{Cloud Computing in Emerging Markets (CCEM), 2013 IEEE
+  International Conference On},
+pp. \bfpage{1}--\blpage{4}
+(\byear{2013}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 9
+\bibitem{kwon2011self}
+\begin{bchapter}
+\bauthor{\bsnm{Kwon}, \binits{H.}},
+\bauthor{\bsnm{Kim}, \binits{T.}},
+\bauthor{\bsnm{Yu}, \binits{S.J.}},
+\bauthor{\bsnm{Kim}, \binits{H.K.}}:
+\bctitle{Self-similarity based lightweight intrusion detection method for cloud
+  computing}.
+In: \bbtitle{Asian Conference on Intelligent Information and Database Systems},
+pp. \bfpage{353}--\blpage{362}
+(\byear{2011}).
+\bcomment{Springer}
+\end{bchapter}
+\endbibitem
+
+%%% 10
+\bibitem{han2011data}
+\begin{bbook}
+\bauthor{\bsnm{Han}, \binits{J.}},
+\bauthor{\bsnm{Pei}, \binits{J.}},
+\bauthor{\bsnm{Kamber}, \binits{M.}}:
+\bbtitle{Data Mining: Concepts and Techniques}.
+\bpublisher{Elsevier}, \blocation{???}
+(\byear{2011})
+\end{bbook}
+\endbibitem
+
+%%% 11
+\bibitem{lonea2013detecting}
+\begin{barticle}
+\bauthor{\bsnm{Lonea}, \binits{A.M.}},
+\bauthor{\bsnm{Popescu}, \binits{D.E.}},
+\bauthor{\bsnm{Tianfield}, \binits{H.}}:
+\batitle{Detecting ddos attacks in cloud computing environment}.
+\bjtitle{International Journal of Computers Communications \& Control}
+\bvolume{8}(\bissue{1}),
+\bfpage{70}--\blpage{78}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem{palmieri2014distributed}
+\begin{barticle}
+\bauthor{\bsnm{Palmieri}, \binits{F.}},
+\bauthor{\bsnm{Fiore}, \binits{U.}},
+\bauthor{\bsnm{Castiglione}, \binits{A.}}:
+\batitle{A distributed approach to network anomaly detection based on
+  independent component analysis}.
+\bjtitle{Concurrency and Computation: Practice and Experience}
+\bvolume{26}(\bissue{5}),
+\bfpage{1113}--\blpage{1129}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem{choi2014method}
+\begin{barticle}
+\bauthor{\bsnm{Choi}, \binits{J.}},
+\bauthor{\bsnm{Choi}, \binits{C.}},
+\bauthor{\bsnm{Ko}, \binits{B.}},
+\bauthor{\bsnm{Kim}, \binits{P.}}:
+\batitle{A method of ddos attack detection using http packet pattern and rule
+  engine in cloud computing environment}.
+\bjtitle{Soft Computing}
+\bvolume{18}(\bissue{9}),
+\bfpage{1697}--\blpage{1703}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 14
+\bibitem{jeyanthi2014virtual}
+\begin{barticle}
+\bauthor{\bsnm{Jeyanthi}, \binits{N.}},
+\bauthor{\bsnm{Mogankumar}, \binits{P.}}:
+\batitle{A virtual firewall mechanism using army nodes to protect cloud
+  infrastructure from ddos attacks}.
+\bjtitle{Cybernetics and Information Technologies}
+\bvolume{14}(\bissue{3}),
+\bfpage{71}--\blpage{85}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem{jeyanthi2013escape}
+\begin{barticle}
+\bauthor{\bsnm{Jeyanthi}, \binits{N.}},
+\bauthor{\bsnm{Iyengar}, \binits{N.}}:
+\batitle{Escape-on-sight: an efficient and scalable mechanism for escaping ddos
+  attacks in cloud computing environment}.
+\bjtitle{Cybernetics and Information Technologies}
+\bvolume{13}(\bissue{1}),
+\bfpage{46}--\blpage{60}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem{chonka2012detecting}
+\begin{bchapter}
+\bauthor{\bsnm{Chonka}, \binits{A.}},
+\bauthor{\bsnm{Abawajy}, \binits{J.}}:
+\bctitle{Detecting and mitigating hx-dos attacks against cloud web services.}
+In: \bbtitle{NBiS},
+pp. \bfpage{429}--\blpage{434}
+(\byear{2012})
+\end{bchapter}
+\endbibitem
+
+%%% 17
+\bibitem{chonka2011cloud}
+\begin{barticle}
+\bauthor{\bsnm{Chonka}, \binits{A.}},
+\bauthor{\bsnm{Xiang}, \binits{Y.}},
+\bauthor{\bsnm{Zhou}, \binits{W.}},
+\bauthor{\bsnm{Bonti}, \binits{A.}}:
+\batitle{Cloud security defence to protect cloud computing against http-dos and
+  xml-dos attacks}.
+\bjtitle{Journal of Network and Computer Applications}
+\bvolume{34}(\bissue{4}),
+\bfpage{1097}--\blpage{1107}
+(\byear{2011})
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem{wahab2014dempster}
+\begin{barticle}
+\bauthor{\bsnm{Wahab}, \binits{O.A.}},
+\bauthor{\bsnm{Otrok}, \binits{H.}},
+\bauthor{\bsnm{Mourad}, \binits{A.}}:
+\batitle{A dempster--shafer based tit-for-tat strategy to regulate the
+  cooperation in vanet using qos-olsr protocol}.
+\bjtitle{Wireless Personal Communications}
+\bvolume{75}(\bissue{3}),
+\bfpage{1635}--\blpage{1667}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem{iyengar2014multilevel}
+\begin{barticle}
+\bauthor{\bsnm{Iyengar}, \binits{N.C.S.N.}},
+\bauthor{\bsnm{Ganapathy}, \binits{G.}},
+\bauthor{\bsnm{Mogan~Kumar}, \binits{P.}},
+\bauthor{\bsnm{Abraham}, \binits{A.}}:
+\batitle{A multilevel thrust filtration defending mechanism against ddos
+  attacks in cloud computing environment}.
+\bjtitle{International Journal of Grid and Utility Computing}
+\bvolume{5}(\bissue{4}),
+\bfpage{236}--\blpage{248}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem{desnoyers2006lttng}
+\begin{bchapter}
+\bauthor{\bsnm{Desnoyers}, \binits{M.}},
+\bauthor{\bsnm{Dagenais}, \binits{M.R.}}:
+\bctitle{The lttng tracer: A low impact performance and behavior monitor for
+  gnu/linux}.
+In: \bbtitle{OLS (Ottawa Linux Symposium)},
+vol. \bseriesno{2006},
+pp. \bfpage{209}--\blpage{224}
+(\byear{2006}).
+\bcomment{Citeseer}
+\end{bchapter}
+\endbibitem
+
+%%% 21
+\bibitem{ezzati2012stateful}
+\begin{barticle}
+\bauthor{\bsnm{Ezzati-Jivan}, \binits{N.}},
+\bauthor{\bsnm{Dagenais}, \binits{M.R.}}:
+\batitle{A stateful approach to generate synthetic events from kernel traces}.
+\bjtitle{Advances in Software Engineering}
+\bvolume{2012},
+\bfpage{6}
+(\byear{2012})
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem{ezzati2013framework}
+\begin{barticle}
+\bauthor{\bsnm{Ezzati-Jivan}, \binits{N.}},
+\bauthor{\bsnm{Dagenais}, \binits{M.R.}}:
+\batitle{A framework to compute statistics of system parameters from very large
+  trace files}.
+\bjtitle{ACM SIGOPS Operating Systems Review}
+\bvolume{47}(\bissue{1}),
+\bfpage{43}--\blpage{54}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem{heller2003one}
+\begin{bchapter}
+\bauthor{\bsnm{Heller}, \binits{K.A.}},
+\bauthor{\bsnm{Svore}, \binits{K.M.}},
+\bauthor{\bsnm{Keromytis}, \binits{A.D.}},
+\bauthor{\bsnm{Stolfo}, \binits{S.J.}}:
+\bctitle{One class support vector machines for detecting anomalous windows
+  registry accesses}.
+In: \bbtitle{Proc. of the Workshop on Data Mining for Computer Security},
+vol. \bseriesno{9}
+(\byear{2003})
+\end{bchapter}
+\endbibitem
+
+%%% 24
+\bibitem{shon2007hybrid}
+\begin{barticle}
+\bauthor{\bsnm{Shon}, \binits{T.}},
+\bauthor{\bsnm{Moon}, \binits{J.}}:
+\batitle{A hybrid machine learning approach to network anomaly detection}.
+\bjtitle{Information Sciences}
+\bvolume{177}(\bissue{18}),
+\bfpage{3799}--\blpage{3821}
+(\byear{2007})
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem{wahab2015misbehavior}
+\begin{bchapter}
+\bauthor{\bsnm{Wahab}, \binits{O.A.}},
+\bauthor{\bsnm{Bentahar}, \binits{J.}},
+\bauthor{\bsnm{Otrok}, \binits{H.}},
+\bauthor{\bsnm{Mourad}, \binits{A.}}:
+\bctitle{Misbehavior detection framework for community-based cloud computing}.
+In: \bbtitle{Future Internet of Things and Cloud (FiCloud), 2015 3rd
+  International Conference On},
+pp. \bfpage{181}--\blpage{188}
+(\byear{2015}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 26
+\bibitem{wahab2016ceap}
+\begin{barticle}
+\bauthor{\bsnm{Wahab}, \binits{O.A.}},
+\bauthor{\bsnm{Mourad}, \binits{A.}},
+\bauthor{\bsnm{Otrok}, \binits{H.}},
+\bauthor{\bsnm{Bentahar}, \binits{J.}}:
+\batitle{Ceap: Svm-based intelligent detection model for clustered vehicular ad
+  hoc networks}.
+\bjtitle{Expert Systems with Applications}
+\bvolume{50},
+\bfpage{40}--\blpage{54}
+(\byear{2016})
+\end{barticle}
+\endbibitem
+
+%%% 27
+\bibitem{scholkopf2002learning}
+\begin{bbook}
+\bauthor{\bsnm{Sch{\"o}lkopf}, \binits{B.}},
+\bauthor{\bsnm{Smola}, \binits{A.J.}}:
+\bbtitle{Learning with Kernels: Support Vector Machines, Regularization,
+  Optimization, and Beyond}.
+\bpublisher{MIT press}, \blocation{???}
+(\byear{2002})
+\end{bbook}
+\endbibitem
+
+%%% 28
+\bibitem{cgroups:2016}
+\begin{botherref}
+\oauthor{\bsnm{O.~Peter}, \binits{P.M.L.R.S.D.} \bsuffix{M.~Eva}}:
+Managing System Resources on Red Hat Enterprise Linux 6.
+(2016 (accessed July 6, 2016)).
+\url{https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/}
+\end{botherref}
+\endbibitem
+
+%%% 29
+\bibitem{auria2008support}
+\begin{botherref}
+\oauthor{\bsnm{Auria}, \binits{L.}},
+\oauthor{\bsnm{Moro}, \binits{R.A.}}:
+Support vector machines (svm) as a technique for solvency analysis
+(2008)
+\end{botherref}
+\endbibitem
+
+%%% 30
+\bibitem{konar2005supervised}
+\begin{barticle}
+\bauthor{\bsnm{Konar}, \binits{A.}},
+\bauthor{\bsnm{Chakraborty}, \binits{U.K.}},
+\bauthor{\bsnm{Wang}, \binits{P.P.}}:
+\batitle{Supervised learning on a fuzzy petri net}.
+\bjtitle{Information Sciences}
+\bvolume{172}(\bissue{3}),
+\bfpage{397}--\blpage{416}
+(\byear{2005})
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem{fine2001efficient}
+\begin{barticle}
+\bauthor{\bsnm{Fine}, \binits{S.}},
+\bauthor{\bsnm{Scheinberg}, \binits{K.}}:
+\batitle{Efficient svm training using low-rank kernel representations}.
+\bjtitle{Journal of Machine Learning Research}
+\bvolume{2}(\bissue{Dec}),
+\bfpage{243}--\blpage{264}
+(\byear{2001})
+\end{barticle}
+\endbibitem
+
+%%% 32
+\bibitem{tsang2005core}
+\begin{barticle}
+\bauthor{\bsnm{Tsang}, \binits{I.W.}},
+\bauthor{\bsnm{Kwok}, \binits{J.T.}},
+\bauthor{\bsnm{Cheung}, \binits{P.-M.}}:
+\batitle{Core vector machines: Fast svm training on very large data sets}.
+\bjtitle{Journal of Machine Learning Research}
+\bvolume{6}(\bissue{Apr}),
+\bfpage{363}--\blpage{392}
+(\byear{2005})
+\end{barticle}
+\endbibitem
+
+%%% 33
+\bibitem{dong2005fast}
+\begin{barticle}
+\bauthor{\bsnm{Dong}, \binits{J.-x.}},
+\bauthor{\bsnm{Krzyzak}, \binits{A.}},
+\bauthor{\bsnm{Suen}, \binits{C.Y.}}:
+\batitle{Fast svm training algorithm with decomposition on very large data
+  sets}.
+\bjtitle{IEEE transactions on pattern analysis and machine intelligence}
+\bvolume{27}(\bissue{4}),
+\bfpage{603}--\blpage{618}
+(\byear{2005})
+\end{barticle}
+\endbibitem
+
+%%% 34
+\bibitem{kandula2005botz}
+\begin{bchapter}
+\bauthor{\bsnm{Kandula}, \binits{S.}},
+\bauthor{\bsnm{Katabi}, \binits{D.}},
+\bauthor{\bsnm{Jacob}, \binits{M.}},
+\bauthor{\bsnm{Berger}, \binits{A.}}:
+\bctitle{Botz-4-sale: Surviving organized ddos attacks that mimic flash
+  crowds}.
+In: \bbtitle{Proceedings of the 2nd Conference on Symposium on Networked
+  Systems Design \& Implementation-Volume 2},
+pp. \bfpage{287}--\blpage{300}
+(\byear{2005}).
+\bcomment{USENIX Association}
+\end{bchapter}
+\endbibitem
+
+%%% 35
+\bibitem{Markus:2015}
+\begin{botherref}
+\oauthor{\bsnm{Markus-Go}}:
+BoNeSi - the DDoS Botnet Simulator.
+(2015 (accessed July 6, 2016)).
+\url{https://github.com/Markus-Go/bonesi}
+\end{botherref}
+\endbibitem
+
+%%% 36
+\bibitem{KVM:2016}
+\begin{botherref}
+Kernel Virtual Machine.
+(2016 (accessed July 6, 2016)).
+\url{http://www.linux-kvm.org/page/Main_Page}
+\end{botherref}
+\endbibitem
+
+%%% 37
+\bibitem{Hick:2007}
+\begin{botherref}
+\oauthor{\bsnm{K.~C. P.~Hick}, \binits{E.A.}},
+\oauthor{\bsnm{Polterock}, \binits{J.}}:
+The CAIDA DDoS Attack 2007 Dataset.
+(2007 (accessed July 10, 2016)).
+\url{ http://www.caida.org/data/passive/ddos-20070804_dataset.xml }
+\end{botherref}
+\endbibitem
+
+%%% 38
+\bibitem{Arlitt:1998}
+\begin{botherref}
+\oauthor{\bsnm{Arlitt}, \binits{M.}},
+\oauthor{\bsnm{Jin}, \binits{T.}}:
+1998 World Cup Web Site Access Logs.
+(1998 (accessed July 10, 2016)).
+\url{ http://www.acm.org/sigcomm/ITA/}
+\end{botherref}
+\endbibitem
+
+%%% 39
+\bibitem{bhatia2014framework}
+\begin{barticle}
+\bauthor{\bsnm{Bhatia}, \binits{S.}},
+\bauthor{\bsnm{Schmidt}, \binits{D.}},
+\bauthor{\bsnm{Mohay}, \binits{G.}},
+\bauthor{\bsnm{Tickle}, \binits{A.}}:
+\batitle{A framework for generating realistic traffic for distributed
+  denial-of-service attacks and flash events}.
+\bjtitle{Computers \& Security}
+\bvolume{40},
+\bfpage{95}--\blpage{107}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 40
+\bibitem{lttng:2016}
+\begin{botherref}
+LTTng Analyses.
+(2016 (accessed July 6, 2016)).
+\url{https://github.com/lttng/lttng-analyses}
+\end{botherref}
+\endbibitem
+
+%%% 41
+\bibitem{maji2013efficient}
+\begin{barticle}
+\bauthor{\bsnm{Maji}, \binits{S.}},
+\bauthor{\bsnm{Berg}, \binits{A.C.}},
+\bauthor{\bsnm{Malik}, \binits{J.}}:
+\batitle{Efficient classification for additive kernel svms}.
+\bjtitle{IEEE transactions on pattern analysis and machine intelligence}
+\bvolume{35}(\bissue{1}),
+\bfpage{66}--\blpage{77}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 42
+\bibitem{libvirt:2016}
+\begin{botherref}
+Control Groups Resource Management.
+(2016 (accessed July 6, 2016)).
+\url{https://libvirt.org/cgroups.html}
+\end{botherref}
+\endbibitem
+
+%%% 43
+\bibitem{dobra2009decision}
+\begin{bchapter}
+\bauthor{\bsnm{Dobra}, \binits{A.}}:
+\bctitle{Decision tree classification}.
+In: \bbtitle{Encyclopedia of Database Systems},
+pp. \bfpage{765}--\blpage{769}.
+\bpublisher{Springer}, \blocation{???}
+(\byear{2009})
+\end{bchapter}
+\endbibitem
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Salesforce Pushed Silicon Valley into the Cloud</p></title>
+  <aug>
+    <au><snm>Wong</snm><fnm>Q.</fnm></au>
+  </aug>
+  <pubdate>1998 (accessed July 11, 2016)</pubdate>
+  <note>\url{ http://www.newsfactor.com}</note>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Cloud-trust-a security assessment model for infrastructure as a
+  service (IaaS) clouds</p></title>
+  <aug>
+    <au><snm>Gonzales</snm><fnm>D</fnm></au>
+    <au><snm>Kaplan</snm><fnm>J</fnm></au>
+    <au><snm>Saltzman</snm><fnm>E</fnm></au>
+    <au><snm>Winkelman</snm><fnm>Z</fnm></au>
+    <au><snm>Woods</snm><fnm>D</fnm></au>
+  </aug>
+  <publisher>IEEE Transactions on Cloud Computing</publisher>
+  <pubdate>2015</pubdate>
+</bibl>
+
+<bibl id="B3">
+  <title><p>A survey of intrusion detection techniques in cloud</p></title>
+  <aug>
+    <au><snm>Modi</snm><fnm>C</fnm></au>
+    <au><snm>Patel</snm><fnm>D</fnm></au>
+    <au><snm>Borisaniya</snm><fnm>B</fnm></au>
+    <au><snm>Patel</snm><fnm>H</fnm></au>
+    <au><snm>Patel</snm><fnm>A</fnm></au>
+    <au><snm>Rajarajan</snm><fnm>M</fnm></au>
+  </aug>
+  <source>Journal of Network and Computer Applications</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2013</pubdate>
+  <volume>36</volume>
+  <issue>1</issue>
+  <fpage>42</fpage>
+  <lpage>-57</lpage>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Threat as a Service?: Virtualization's Impact on Cloud
+  Security</p></title>
+  <aug>
+    <au><snm>Tsai</snm><fnm>HY</fnm></au>
+    <au><snm>Siebenhaar</snm><fnm>M</fnm></au>
+    <au><snm>Miede</snm><fnm>A</fnm></au>
+    <au><snm>Huang</snm><fnm>Y</fnm></au>
+    <au><snm>Steinmetz</snm><fnm>R</fnm></au>
+  </aug>
+  <source>IT Professional Magazine</source>
+  <publisher>IEEE Computer Society</publisher>
+  <pubdate>2012</pubdate>
+  <volume>14</volume>
+  <issue>1</issue>
+  <fpage>32</fpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>Understanding the impact of denial of service attacks on virtual
+  machines</p></title>
+  <aug>
+    <au><snm>Shea</snm><fnm>R</fnm></au>
+    <au><snm>Liu</snm><fnm>J</fnm></au>
+  </aug>
+  <source>Proceedings of the 2012 IEEE 20th International Workshop on Quality
+  of Service</source>
+  <pubdate>2012</pubdate>
+  <fpage>27</fpage>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Vm profile based optimized network attack pattern detection scheme
+  for ddos attacks in cloud</p></title>
+  <aug>
+    <au><snm>Gupta</snm><fnm>S</fnm></au>
+    <au><snm>Kumar</snm><fnm>P</fnm></au>
+  </aug>
+  <source>International Symposium on Security in Computing and
+  Communication</source>
+  <pubdate>2013</pubdate>
+  <fpage>255</fpage>
+  <lpage>-261</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>Edos armor: a cost effective economic denial of sustainability
+  attack mitigation framework for e-commerce applications in cloud
+  environments</p></title>
+  <aug>
+    <au><snm>Masood</snm><fnm>M</fnm></au>
+    <au><snm>Anwar</snm><fnm>Z</fnm></au>
+    <au><snm>Raza</snm><fnm>SA</fnm></au>
+    <au><snm>Hur</snm><fnm>MA</fnm></au>
+  </aug>
+  <source>Multi Topic Conference (INMIC), 2013 16th International</source>
+  <pubdate>2013</pubdate>
+  <fpage>37</fpage>
+  <lpage>-42</lpage>
+</bibl>
+
+<bibl id="B8">
+  <title><p>Detection of economic denial of sustainability using time spent on
+  a web page in cloud</p></title>
+  <aug>
+    <au><snm>Koduru</snm><fnm>A</fnm></au>
+    <au><snm>Neelakantam</snm><fnm>T</fnm></au>
+    <au><cnm>others</cnm></au>
+  </aug>
+  <source>Cloud Computing in Emerging Markets (CCEM), 2013 IEEE International
+  Conference on</source>
+  <pubdate>2013</pubdate>
+  <fpage>1</fpage>
+  <lpage>-4</lpage>
+</bibl>
+
+<bibl id="B9">
+  <title><p>Self-similarity based lightweight intrusion detection method for
+  cloud computing</p></title>
+  <aug>
+    <au><snm>Kwon</snm><fnm>H</fnm></au>
+    <au><snm>Kim</snm><fnm>T</fnm></au>
+    <au><snm>Yu</snm><fnm>SJ</fnm></au>
+    <au><snm>Kim</snm><fnm>HK</fnm></au>
+  </aug>
+  <source>Asian Conference on Intelligent Information and Database
+  Systems</source>
+  <pubdate>2011</pubdate>
+  <fpage>353</fpage>
+  <lpage>-362</lpage>
+</bibl>
+
+<bibl id="B10">
+  <title><p>Data mining: concepts and techniques</p></title>
+  <aug>
+    <au><snm>Han</snm><fnm>J</fnm></au>
+    <au><snm>Pei</snm><fnm>J</fnm></au>
+    <au><snm>Kamber</snm><fnm>M</fnm></au>
+  </aug>
+  <publisher>Elsevier</publisher>
+  <pubdate>2011</pubdate>
+</bibl>
+
+<bibl id="B11">
+  <title><p>Detecting DDoS attacks in cloud computing environment</p></title>
+  <aug>
+    <au><snm>Lonea</snm><fnm>AM</fnm></au>
+    <au><snm>Popescu</snm><fnm>DE</fnm></au>
+    <au><snm>Tianfield</snm><fnm>H</fnm></au>
+  </aug>
+  <source>International Journal of Computers Communications \& Control</source>
+  <pubdate>2013</pubdate>
+  <volume>8</volume>
+  <issue>1</issue>
+  <fpage>70</fpage>
+  <lpage>-78</lpage>
+</bibl>
+
+<bibl id="B12">
+  <title><p>A distributed approach to network anomaly detection based on
+  independent component analysis</p></title>
+  <aug>
+    <au><snm>Palmieri</snm><fnm>F</fnm></au>
+    <au><snm>Fiore</snm><fnm>U</fnm></au>
+    <au><snm>Castiglione</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Concurrency and Computation: Practice and Experience</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2014</pubdate>
+  <volume>26</volume>
+  <issue>5</issue>
+  <fpage>1113</fpage>
+  <lpage>-1129</lpage>
+</bibl>
+
+<bibl id="B13">
+  <title><p>A method of DDoS attack detection using HTTP packet pattern and
+  rule engine in cloud computing environment</p></title>
+  <aug>
+    <au><snm>Choi</snm><fnm>J</fnm></au>
+    <au><snm>Choi</snm><fnm>C</fnm></au>
+    <au><snm>Ko</snm><fnm>B</fnm></au>
+    <au><snm>Kim</snm><fnm>P</fnm></au>
+  </aug>
+  <source>Soft Computing</source>
+  <publisher>Springer</publisher>
+  <pubdate>2014</pubdate>
+  <volume>18</volume>
+  <issue>9</issue>
+  <fpage>1697</fpage>
+  <lpage>-1703</lpage>
+</bibl>
+
+<bibl id="B14">
+  <title><p>A virtual firewall mechanism using army nodes to protect cloud
+  infrastructure from ddos attacks</p></title>
+  <aug>
+    <au><snm>Jeyanthi</snm><fnm>N</fnm></au>
+    <au><snm>Mogankumar</snm><fnm>PC</fnm></au>
+  </aug>
+  <source>Cybernetics and Information Technologies</source>
+  <pubdate>2014</pubdate>
+  <volume>14</volume>
+  <issue>3</issue>
+  <fpage>71</fpage>
+  <lpage>-85</lpage>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Escape-on-sight: an efficient and scalable mechanism for escaping
+  DDoS attacks in cloud computing environment</p></title>
+  <aug>
+    <au><snm>Jeyanthi</snm><fnm>N</fnm></au>
+    <au><snm>Iyengar</snm><fnm>NCSN</fnm></au>
+  </aug>
+  <source>Cybernetics and Information Technologies</source>
+  <pubdate>2013</pubdate>
+  <volume>13</volume>
+  <issue>1</issue>
+  <fpage>46</fpage>
+  <lpage>-60</lpage>
+</bibl>
+
+<bibl id="B16">
+  <title><p>Detecting and Mitigating HX-DoS Attacks against Cloud Web
+  Services.</p></title>
+  <aug>
+    <au><snm>Chonka</snm><fnm>A</fnm></au>
+    <au><snm>Abawajy</snm><fnm>J</fnm></au>
+  </aug>
+  <source>NBiS</source>
+  <pubdate>2012</pubdate>
+  <fpage>429</fpage>
+  <lpage>-434</lpage>
+</bibl>
+
+<bibl id="B17">
+  <title><p>Cloud security defence to protect cloud computing against HTTP-DoS
+  and XML-DoS attacks</p></title>
+  <aug>
+    <au><snm>Chonka</snm><fnm>A</fnm></au>
+    <au><snm>Xiang</snm><fnm>Y</fnm></au>
+    <au><snm>Zhou</snm><fnm>W</fnm></au>
+    <au><snm>Bonti</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Journal of Network and Computer Applications</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2011</pubdate>
+  <volume>34</volume>
+  <issue>4</issue>
+  <fpage>1097</fpage>
+  <lpage>-1107</lpage>
+</bibl>
+
+<bibl id="B18">
+  <title><p>A Dempster--Shafer Based Tit-for-Tat Strategy to Regulate the
+  Cooperation in VANET Using QoS-OLSR Protocol</p></title>
+  <aug>
+    <au><snm>Wahab</snm><fnm>OA</fnm></au>
+    <au><snm>Otrok</snm><fnm>H</fnm></au>
+    <au><snm>Mourad</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Wireless Personal Communications</source>
+  <publisher>Springer</publisher>
+  <pubdate>2014</pubdate>
+  <volume>75</volume>
+  <issue>3</issue>
+  <fpage>1635</fpage>
+  <lpage>-1667</lpage>
+</bibl>
+
+<bibl id="B19">
+  <title><p>A multilevel thrust filtration defending mechanism against DDoS
+  attacks in cloud computing environment</p></title>
+  <aug>
+    <au><snm>Iyengar</snm><fnm>NCSN</fnm></au>
+    <au><snm>Ganapathy</snm><fnm>G</fnm></au>
+    <au><snm>Mogan Kumar</snm><fnm>PC</fnm></au>
+    <au><snm>Abraham</snm><fnm>A</fnm></au>
+  </aug>
+  <source>International Journal of Grid and Utility Computing</source>
+  <publisher>Inderscience Publishers Ltd</publisher>
+  <pubdate>2014</pubdate>
+  <volume>5</volume>
+  <issue>4</issue>
+  <fpage>236</fpage>
+  <lpage>-248</lpage>
+</bibl>
+
+<bibl id="B20">
+  <title><p>The LTTng tracer: A low impact performance and behavior monitor for
+  GNU/Linux</p></title>
+  <aug>
+    <au><snm>Desnoyers</snm><fnm>M</fnm></au>
+    <au><snm>Dagenais</snm><fnm>MR</fnm></au>
+  </aug>
+  <source>OLS (Ottawa Linux Symposium)</source>
+  <pubdate>2006</pubdate>
+  <volume>2006</volume>
+  <fpage>209</fpage>
+  <lpage>-224</lpage>
+</bibl>
+
+<bibl id="B21">
+  <title><p>A stateful approach to generate synthetic events from kernel
+  traces</p></title>
+  <aug>
+    <au><snm>Ezzati Jivan</snm><fnm>N</fnm></au>
+    <au><snm>Dagenais</snm><fnm>MR</fnm></au>
+  </aug>
+  <source>Advances in Software Engineering</source>
+  <publisher>Hindawi Publishing Corp.</publisher>
+  <pubdate>2012</pubdate>
+  <volume>2012</volume>
+  <fpage>6</fpage>
+</bibl>
+
+<bibl id="B22">
+  <title><p>A framework to compute statistics of system parameters from very
+  large trace files</p></title>
+  <aug>
+    <au><snm>Ezzati Jivan</snm><fnm>N</fnm></au>
+    <au><snm>Dagenais</snm><fnm>MR</fnm></au>
+  </aug>
+  <source>ACM SIGOPS Operating Systems Review</source>
+  <publisher>ACM</publisher>
+  <pubdate>2013</pubdate>
+  <volume>47</volume>
+  <issue>1</issue>
+  <fpage>43</fpage>
+  <lpage>-54</lpage>
+</bibl>
+
+<bibl id="B23">
+  <title><p>One class support vector machines for detecting anomalous windows
+  registry accesses</p></title>
+  <aug>
+    <au><snm>Heller</snm><fnm>KA</fnm></au>
+    <au><snm>Svore</snm><fnm>KM</fnm></au>
+    <au><snm>Keromytis</snm><fnm>AD</fnm></au>
+    <au><snm>Stolfo</snm><fnm>SJ</fnm></au>
+  </aug>
+  <source>Proc. of the workshop on Data Mining for Computer Security</source>
+  <pubdate>2003</pubdate>
+  <volume>9</volume>
+</bibl>
+
+<bibl id="B24">
+  <title><p>A hybrid machine learning approach to network anomaly
+  detection</p></title>
+  <aug>
+    <au><snm>Shon</snm><fnm>T</fnm></au>
+    <au><snm>Moon</snm><fnm>J</fnm></au>
+  </aug>
+  <source>Information Sciences</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2007</pubdate>
+  <volume>177</volume>
+  <issue>18</issue>
+  <fpage>3799</fpage>
+  <lpage>-3821</lpage>
+</bibl>
+
+<bibl id="B25">
+  <title><p>Misbehavior Detection Framework for Community-based Cloud
+  Computing</p></title>
+  <aug>
+    <au><snm>Wahab</snm><fnm>OA</fnm></au>
+    <au><snm>Bentahar</snm><fnm>J</fnm></au>
+    <au><snm>Otrok</snm><fnm>H</fnm></au>
+    <au><snm>Mourad</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Future Internet of Things and Cloud (FiCloud), 2015 3rd International
+  Conference on</source>
+  <pubdate>2015</pubdate>
+  <fpage>181</fpage>
+  <lpage>-188</lpage>
+</bibl>
+
+<bibl id="B26">
+  <title><p>CEAP: SVM-based intelligent detection model for clustered vehicular
+  ad hoc networks</p></title>
+  <aug>
+    <au><snm>Wahab</snm><fnm>OA</fnm></au>
+    <au><snm>Mourad</snm><fnm>A</fnm></au>
+    <au><snm>Otrok</snm><fnm>H</fnm></au>
+    <au><snm>Bentahar</snm><fnm>J</fnm></au>
+  </aug>
+  <source>Expert Systems with Applications</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2016</pubdate>
+  <volume>50</volume>
+  <fpage>40</fpage>
+  <lpage>-54</lpage>
+</bibl>
+
+<bibl id="B27">
+  <title><p>Learning with kernels: support vector machines, regularization,
+  optimization, and beyond</p></title>
+  <aug>
+    <au><snm>Sch{\"o}lkopf</snm><fnm>B</fnm></au>
+    <au><snm>Smola</snm><fnm>AJ</fnm></au>
+  </aug>
+  <publisher>MIT press</publisher>
+  <pubdate>2002</pubdate>
+</bibl>
+
+<bibl id="B28">
+  <title><p>Managing system resources on Red Hat Enterprise Linux 6</p></title>
+  <aug>
+    <au><snm>O. Peter</snm><fnm>PMLRSD</fnm></au>
+  </aug>
+  <pubdate>2016 (accessed July 6, 2016)</pubdate>
+  <note>\url{https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Resource_Management_Guide/}</note>
+</bibl>
+
+<bibl id="B29">
+  <title><p>Support vector machines (SVM) as a technique for solvency
+  analysis</p></title>
+  <aug>
+    <au><snm>Auria</snm><fnm>L</fnm></au>
+    <au><snm>Moro</snm><fnm>RA</fnm></au>
+  </aug>
+  <publisher>DIW Berlin Discussion Paper</publisher>
+  <pubdate>2008</pubdate>
+</bibl>
+
+<bibl id="B30">
+  <title><p>Supervised learning on a fuzzy Petri net</p></title>
+  <aug>
+    <au><snm>Konar</snm><fnm>A</fnm></au>
+    <au><snm>Chakraborty</snm><fnm>UK</fnm></au>
+    <au><snm>Wang</snm><fnm>PP</fnm></au>
+  </aug>
+  <source>Information Sciences</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2005</pubdate>
+  <volume>172</volume>
+  <issue>3</issue>
+  <fpage>397</fpage>
+  <lpage>-416</lpage>
+</bibl>
+
+<bibl id="B31">
+  <title><p>Efficient SVM training using low-rank kernel
+  representations</p></title>
+  <aug>
+    <au><snm>Fine</snm><fnm>S</fnm></au>
+    <au><snm>Scheinberg</snm><fnm>K</fnm></au>
+  </aug>
+  <source>Journal of Machine Learning Research</source>
+  <pubdate>2001</pubdate>
+  <volume>2</volume>
+  <issue>Dec</issue>
+  <fpage>243</fpage>
+  <lpage>-264</lpage>
+</bibl>
+
+<bibl id="B32">
+  <title><p>Core vector machines: Fast SVM training on very large data
+  sets</p></title>
+  <aug>
+    <au><snm>Tsang</snm><fnm>IW</fnm></au>
+    <au><snm>Kwok</snm><fnm>JT</fnm></au>
+    <au><snm>Cheung</snm><fnm>PM</fnm></au>
+  </aug>
+  <source>Journal of Machine Learning Research</source>
+  <pubdate>2005</pubdate>
+  <volume>6</volume>
+  <issue>Apr</issue>
+  <fpage>363</fpage>
+  <lpage>-392</lpage>
+</bibl>
+
+<bibl id="B33">
+  <title><p>Fast SVM training algorithm with decomposition on very large data
+  sets</p></title>
+  <aug>
+    <au><snm>Dong</snm><fnm>Jx</fnm></au>
+    <au><snm>Krzyzak</snm><fnm>A</fnm></au>
+    <au><snm>Suen</snm><fnm>CY</fnm></au>
+  </aug>
+  <source>IEEE transactions on pattern analysis and machine
+  intelligence</source>
+  <publisher>IEEE</publisher>
+  <pubdate>2005</pubdate>
+  <volume>27</volume>
+  <issue>4</issue>
+  <fpage>603</fpage>
+  <lpage>-618</lpage>
+</bibl>
+
+<bibl id="B34">
+  <title><p>Botz-4-sale: Surviving organized DDoS attacks that mimic flash
+  crowds</p></title>
+  <aug>
+    <au><snm>Kandula</snm><fnm>S</fnm></au>
+    <au><snm>Katabi</snm><fnm>D</fnm></au>
+    <au><snm>Jacob</snm><fnm>M</fnm></au>
+    <au><snm>Berger</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Proceedings of the 2nd conference on Symposium on Networked Systems
+  Design \& Implementation-Volume 2</source>
+  <pubdate>2005</pubdate>
+  <fpage>287</fpage>
+  <lpage>-300</lpage>
+</bibl>
+
+<bibl id="B35">
+  <title><p>BoNeSi - the DDoS Botnet Simulator</p></title>
+  <aug>
+    <au><cnm>Markus Go</cnm></au>
+  </aug>
+  <pubdate>2015 (accessed July 6, 2016)</pubdate>
+  <note>\url{https://github.com/Markus-Go/bonesi}</note>
+</bibl>
+
+<bibl id="B36">
+  <title><p>Kernel Virtual Machine</p></title>
+  <pubdate>2016 (accessed July 6, 2016)</pubdate>
+  <note>\url{http://www.linux-kvm.org/page/Main_Page}</note>
+</bibl>
+
+<bibl id="B37">
+  <title><p>The CAIDA DDoS Attack 2007 Dataset</p></title>
+  <aug>
+    <au><snm>K. C. P. Hick</snm><fnm>EA</fnm></au>
+    <au><snm>Polterock</snm><fnm>J.</fnm></au>
+  </aug>
+  <pubdate>2007 (accessed July 10, 2016)</pubdate>
+  <note>\url{ http://www.caida.org/data/passive/ddos-20070804_dataset.xml
+  }</note>
+</bibl>
+
+<bibl id="B38">
+  <title><p>1998 World Cup Web Site Access Logs</p></title>
+  <aug>
+    <au><snm>Arlitt</snm><fnm>M.</fnm></au>
+    <au><snm>Jin</snm><fnm>T.</fnm></au>
+  </aug>
+  <pubdate>1998 (accessed July 10, 2016)</pubdate>
+  <note>\url{ http://www.acm.org/sigcomm/ITA/}</note>
+</bibl>
+
+<bibl id="B39">
+  <title><p>A framework for generating realistic traffic for Distributed
+  Denial-of-Service attacks and Flash Events</p></title>
+  <aug>
+    <au><snm>Bhatia</snm><fnm>S</fnm></au>
+    <au><snm>Schmidt</snm><fnm>D</fnm></au>
+    <au><snm>Mohay</snm><fnm>G</fnm></au>
+    <au><snm>Tickle</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Computers \& Security</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2014</pubdate>
+  <volume>40</volume>
+  <fpage>95</fpage>
+  <lpage>-107</lpage>
+</bibl>
+
+<bibl id="B40">
+  <title><p>LTTng analyses</p></title>
+  <pubdate>2016 (accessed July 6, 2016)</pubdate>
+  <note>\url{https://github.com/lttng/lttng-analyses}</note>
+</bibl>
+
+<bibl id="B41">
+  <title><p>Efficient classification for additive kernel SVMs</p></title>
+  <aug>
+    <au><snm>Maji</snm><fnm>S</fnm></au>
+    <au><snm>Berg</snm><fnm>AC</fnm></au>
+    <au><snm>Malik</snm><fnm>J</fnm></au>
+  </aug>
+  <source>IEEE transactions on pattern analysis and machine
+  intelligence</source>
+  <publisher>IEEE</publisher>
+  <pubdate>2013</pubdate>
+  <volume>35</volume>
+  <issue>1</issue>
+  <fpage>66</fpage>
+  <lpage>-77</lpage>
+</bibl>
+
+<bibl id="B42">
+  <title><p>Control Groups Resource Management</p></title>
+  <pubdate>2016 (accessed July 6, 2016)</pubdate>
+  <note>\url{https://libvirt.org/cgroups.html}</note>
+</bibl>
+
+<bibl id="B43">
+  <title><p>Decision Tree Classification</p></title>
+  <aug>
+    <au><snm>Dobra</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Encyclopedia of Database Systems</source>
+  <publisher>Springer</publisher>
+  <pubdate>2009</pubdate>
+  <fpage>765</fpage>
+  <lpage>-769</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment
