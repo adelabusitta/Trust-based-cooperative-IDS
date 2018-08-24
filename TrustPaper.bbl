@@ -1,0 +1,209 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{gonzales2015cloud}
+D.~Gonzales, J.~Kaplan, E.~Saltzman, Z.~Winkelman, D.~Woods, Cloud-trust-a
+  security assessment model for infrastructure as a service (iaas) clouds, IEEE
+  Transactions on Cloud Computing.
+
+\bibitem{rochwerger2011reservoir}
+B.~Rochwerger, D.~Breitgand, A.~Epstein, D.~Hadas, I.~Loy, K.~Nagin,
+  J.~Tordsson, C.~Ragusa, M.~Villari, S.~Clayman, et~al., Reservoir-when one
+  cloud is not enough, Computer 44~(3) (2011) 44--51.
+
+\bibitem{celesti2010enhance}
+A.~Celesti, F.~Tusa, M.~Villari, A.~Puliafito, How to enhance cloud
+  architectures to enable cross-federation, in: Cloud Computing (CLOUD), 2010
+  IEEE 3rd International Conference on, IEEE, 2010, pp. 337--345.
+
+\bibitem{guazzone2014game}
+M.~Guazzone, C.~Anglano, M.~Sereno, A game-theoretic approach to coalition
+  formation in green cloud federations, in: Cluster, Cloud and Grid Computing
+  (CCGrid), 2014 14th IEEE/ACM International Symposium on, IEEE, 2014, pp.
+  618--625.
+
+\bibitem{buyya2010intercloud}
+R.~Buyya, R.~Ranjan, R.~N. Calheiros, Intercloud: Utility-oriented federation
+  of cloud computing environments for scaling of application services, in:
+  International Conference on Algorithms and Architectures for Parallel
+  Processing, Springer, 2010, pp. 13--31.
+
+\bibitem{fazio2015enhance}
+M.~Fazio, A.~Celesti, M.~Villari, A.~Puliafito, How to enhance cloud
+  architectures to enable cross-federation: Towards interoperable storage
+  providers, in: Cloud Engineering (IC2E), 2015 IEEE International Conference
+  on, IEEE, 2015, pp. 480--486.
+
+\bibitem{goiri2010characterizing}
+I.~Goiri, J.~Guitart, J.~Torres, Characterizing cloud federation for enhancing
+  providers' profit, in: Cloud Computing (CLOUD), 2010 IEEE 3rd International
+  Conference on, IEEE, 2010, pp. 123--130.
+
+\bibitem{mashayekhy2015cloud}
+L.~Mashayekhy, M.~M. Nejad, D.~Grosu, Cloud federations in the sky: Formation
+  game and mechanism, IEEE Transactions on Cloud Computing 3~(1) (2015) 14--27.
+
+\bibitem{bu2011distributed}
+S.~Bu, F.~R. Yu, X.~P. Liu, P.~Mason, H.~Tang, Distributed combined
+  authentication and intrusion detection with data fusion in high-security
+  mobile ad hoc networks, IEEE transactions on vehicular technology 60~(3)
+  (2011) 1025--1036.
+
+\bibitem{hassan2015qos}
+M.~M. Hassan, M.~Abdullah-Al-Wadud, A.~Almogren, S.~Rahman, A.~Alelaiwi,
+  A.~Alamri, M.~Hamid, et~al., Qos and trust-aware coalition formation game in
+  data-intensive cloud federations, Concurrency and Computation: Practice and
+  Experience.
+
+\bibitem{ray2007game}
+D.~Ray, A game-theoretic perspective on coalition formation, Oxford University
+  Press, 2007.
+
+\bibitem{shafer1992dempster}
+G.~Shafer, Dempster-shafer theory, Encyclopedia of artificial intelligence
+  (1992) 330--331.
+
+\bibitem{toosi2011resource}
+A.~N. Toosi, R.~N. Calheiros, R.~K. Thulasiram, R.~Buyya, Resource provisioning
+  policies to increase iaas provider's profit in a federated cloud environment,
+  in: High Performance Computing and Communications (HPCC), 2011 IEEE 13th
+  International Conference on, IEEE, 2011, pp. 279--287.
+
+\bibitem{van2010cost}
+R.~Van~den Bossche, K.~Vanmechelen, J.~Broeckhove, Cost-optimal scheduling in
+  hybrid iaas clouds for deadline constrained workloads, in: Cloud Computing
+  (CLOUD), 2010 IEEE 3rd International Conference on, IEEE, 2010, pp. 228--235.
+
+\bibitem{chaisiri2012optimization}
+S.~Chaisiri, B.-S. Lee, D.~Niyato, Optimization of resource provisioning cost
+  in cloud computing, IEEE Transactions on Services Computing 5~(2) (2012)
+  164--177.
+
+\bibitem{bruneo2014stochastic}
+D.~Bruneo, A stochastic model to investigate data center performance and qos in
+  iaas cloud computing systems, IEEE Transactions on Parallel and Distributed
+  Systems 25~(3) (2014) 560--569.
+
+\bibitem{yang2012business}
+X.~Yang, B.~Nasser, M.~Surridge, S.~Middleton, A business-oriented cloud
+  federation model for real-time applications, Future Generation Computer
+  Systems 28~(8) (2012) 1158--1167.
+
+\bibitem{salama2014qos}
+M.~Salama, A.~Shawish, A qos-oriented inter-cloud federation framework, in:
+  Computer Software and Applications Conference (COMPSAC), 2014 IEEE 38th
+  Annual, IEEE, 2014, pp. 642--643.
+
+\bibitem{hassan2011distributed}
+M.~M. Hassan, B.~Song, E.-N. Huh, Distributed resource allocation games in
+  horizontal dynamic cloud federation platform, in: High Performance Computing
+  and Communications (HPCC), 2011 IEEE 13th International Conference on, IEEE,
+  2011, pp. 822--827.
+
+\bibitem{mihailescu2010dynamic}
+M.~Mihailescu, Y.~M. Teo, Dynamic resource pricing on federated clouds, in:
+  Proceedings of the 2010 10th IEEE/ACM International Conference on Cluster,
+  Cloud and Grid Computing, IEEE Computer Society, 2010, pp. 513--517.
+
+\bibitem{li2013profit}
+H.~Li, C.~Wu, Z.~Li, F.~C. Lau, Profit-maximizing virtual machine trading in a
+  federation of selfish clouds, in: INFOCOM, 2013 Proceedings IEEE, IEEE, 2013,
+  pp. 25--29.
+
+\bibitem{samaan2014novel}
+N.~Samaan, A novel economic sharing model in a federation of selfish cloud
+  providers, IEEE Transactions on Parallel and Distributed Systems 25~(1)
+  (2014) 12--21.
+
+\bibitem{ngo2012toward}
+C.~Ngo, Y.~Demchenko, C.~De~Laat, Toward a dynamic trust establishment approach
+  for multi-provider intercloud environment, in: Cloud Computing Technology and
+  Science (CloudCom), 2012 IEEE 4th International Conference on, IEEE, 2012,
+  pp. 532--538.
+
+\bibitem{wahab2016towards}
+O.~A. Wahab, J.~Bentahar, H.~Otrok, A.~Mourad, Towards trustworthy multi-cloud
+  services communities: A trust-based hedonic coalitional game, IEEE
+  Transactions on Services Computing.
+
+\bibitem{medjahed2005dynamic}
+B.~Medjahed, A.~Bouguettaya, A dynamic foundational architecture for semantic
+  web services, Distributed and Parallel Databases 17~(2) (2005) 179--206.
+
+\bibitem{yu2002evidential}
+B.~Yu, M.~P. Singh, An evidential model of distributed reputation management,
+  in: Proceedings of the first international joint conference on Autonomous
+  Agents and Multiagent Systems: Part 1, ACM, 2002, pp. 294--301.
+
+\bibitem{dreze1980hedonic}
+J.~H. Dreze, J.~Greenberg, Hedonic coalitions: Optimality and stability,
+  Econometrica: Journal of the Econometric Society (1980) 987--1003.
+
+\bibitem{apt2009generic}
+K.~R. Apt, A.~Witzel, A generic approach to coalition formation, International
+  Game Theory Review 11~(03) (2009) 347--367.
+
+\bibitem{josang2002beta}
+A.~Josang, R.~Ismail, The beta reputation system, in: Proceedings of the 15th
+  bled electronic commerce conference, Vol.~5, 2002, pp. 2502--2511.
+
+\bibitem{yahyaoui2012trust}
+H.~Yahyaoui, A trust-based game theoretical model for web services
+  collaboration, Knowledge-Based Systems 27 (2012) 162--169.
+
+\bibitem{hansen1982large}
+L.~P. Hansen, Large sample properties of generalized method of moments
+  estimators, Econometrica: Journal of the Econometric Society (1982)
+  1029--1054.
+
+\bibitem{wei2014security}
+Z.~Wei, H.~Tang, F.~R. Yu, M.~Wang, P.~Mason, Security enhancements for mobile
+  ad hoc networks with trust management using uncertain reasoning, IEEE
+  Transactions on Vehicular Technology 63~(9) (2014) 4647--4658.
+
+\bibitem{bogomolnaia2002stability}
+A.~Bogomolnaia, M.~O. Jackson, The stability of hedonic coalition structures,
+  Games and Economic Behavior 38~(2) (2002) 201--230.
+
+\bibitem{sandholm1999coalition}
+T.~Sandholm, K.~Larson, M.~Andersson, O.~Shehory, F.~Tohm{\'e}, Coalition
+  structure generation with worst case guarantees, Artificial Intelligence
+  111~(1-2) (1999) 209--238.
+
+\bibitem{sinha1998distributed}
+P.~K. Sinha, Distributed operating systems: concepts and design, PHI Learning
+  Pvt. Ltd., 1998.
+
+\bibitem{wooldridge2009introduction}
+M.~Wooldridge, An introduction to multiagent systems, John Wiley \& Sons, 2009.
+
+\bibitem{kshemkalyani2011distributed}
+A.~D. Kshemkalyani, M.~Singhal, Distributed computing: principles, algorithms,
+  and systems, Cambridge University Press, 2011.
+
+\bibitem{calheiros2011cloudsim}
+R.~N. Calheiros, R.~Ranjan, A.~Beloglazov, C.~A. De~Rose, R.~Buyya, Cloudsim: a
+  toolkit for modeling and simulation of cloud computing environments and
+  evaluation of resource provisioning algorithms, Software: Practice and
+  experience 41~(1) (2011) 23--50.
+
+\bibitem{habib2010cloud}
+S.~M. Habib, S.~Ries, M.~Muhlhauser, Cloud computing landscape and research
+  challenges regarding trust and reputation, in: Ubiquitous Intelligence \&
+  Computing and 7th International Conference on Autonomic \& Trusted Computing
+  (UIC/ATC), 2010 7th International Conference on, IEEE, 2010, pp. 410--415.
+
+\bibitem{fan2014novel}
+W.~Fan, S.~Yang, J.~Pei, A novel two-stage model for cloud service
+  trustworthiness evaluation, Expert Systems 31~(2) (2014) 136--153.
+
+\bibitem{alhamad2010sla}
+M.~Alhamad, T.~Dillon, E.~Chang, Sla-based trust model for cloud computing, in:
+  Network-Based Information Systems (NBiS), 2010 13th International Conference
+  on, IEEE, 2010, pp. 321--324.
+
+\end{thebibliography}
